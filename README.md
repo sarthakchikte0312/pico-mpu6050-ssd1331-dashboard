@@ -1,6 +1,4 @@
 # pico-mpu6050-ssd1331-dashboard
-Real-time MPU6050 motion data visualization on SSD1331 OLED using Raspberry Pi Pico.
-# pico-mpu6050-ssd1331-dashboard
 
 
 
@@ -22,7 +20,6 @@ Real-time MPU6050 motion data visualization on SSD1331 OLED using Raspberry Pi P
 10. [Troubleshooting](#troubleshooting)
 11. [License](#license)
 12. [Contributing](#contributing)
-13. [Acknowledgements & References](#acknowledgements--references)
 
 ---
 
@@ -204,10 +201,5 @@ Contributions are welcome! Please open issues for bugs or feature requests and s
 * SSD1331 command reference and example drivers
 * Raspberry Pi Pico MicroPython documentation
 
----
 
-*If you want, I can:*
 
-* Generate a `LICENSE` file (MIT) and add it to the repo.
-* Produce a shorter README or a README with more screenshots and badges.
-* Create a requirements.txt or lib/ summary listing all helper modules.
